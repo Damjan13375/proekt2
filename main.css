@@ -1,0 +1,35 @@
+html{
+    font-family: 'Lora', serif;
+}
+
+.brandCont{
+    max-width: 160px;
+}
+.upperCase{
+    text-transform: uppercase;
+    padding: 0 2rem;
+}
+#brandLogo{
+    width: 100%;
+}
+#link1,#link2,#link3,#link4{
+    padding: 1.5rem 2rem;
+    letter-spacing: 2px;
+
+}
+#link4{
+    background-color: red;
+    color: white;
+    
+}
+#nav1{
+background-color: transparent;
+padding: 20px 50px;
+background-image: none;
+border: none;
+box-shadow: none;
+}
+.carouselText{
+    margin-top: 28rem;
+    color: white;
+}
